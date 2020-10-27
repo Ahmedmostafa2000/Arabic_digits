@@ -8,6 +8,8 @@ I have read this in a paper and I thought that it would be different from my mni
 The paper link:
 https://www.researchgate.net/publication/334399497_Strided_Convolution_Instead_of_Max_Pooling_for_Memory_Efficiency_of_Convolutional_Neural_Networks
 
+It worked so well, I know the data isn't that hard to see the effect,so I am planning to try it on a more difficult dataset and also comapare it to max-pooling on this dataset
+
 
 
 # The structure
