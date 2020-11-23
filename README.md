@@ -54,4 +54,3 @@ so this indicates that the model have law variance
 
 ### for more illustration about how to build a simple convlutional neural network using keras read the readme file in my mnist repository https://github.com/Ahmedmostafa2000/MNIST
 
-### note: I am planning on doing visualization for this model's filters in couple of days isa
